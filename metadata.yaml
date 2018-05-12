@@ -1,0 +1,39 @@
+_repo: The-Best-Policy_36393
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Brehm, George
+    birthdate: 1878
+    deathdate: 1966
+    gutenberg_agent_id: '8472'
+    url: http://www.gutenberg.org/2009/agents/8472
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Flower, Elliott
+    birthdate: 1863
+    deathdate: 1920
+    gutenberg_agent_id: '38244'
+    url: http://www.gutenberg.org/2009/agents/38244
+description: ''
+gutenberg_issued: '2011-06-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36393'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Life insurance agents -- Fiction'
+- !lcsh 'Life insurance -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+tableOfContents: An incidental comedy -- An incidental question -- An incidental tragedy
+  -- An incidental speculation -- An incidental favor -- An incidental error -- An
+  incidental failure -- An incidental scheme -- An incidental courtship -- An incidental
+  sacrifice -- An incidental discovery -- An incidental grievance.
+title: The Best Policy
+url: http://www.gutenberg.org/ebooks/36393
